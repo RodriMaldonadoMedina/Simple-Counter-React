@@ -10,3 +10,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+body{
+    line-height: 55px;
+    background: url("https://cdn.pixabay.com/photo/2018/02/16/02/03/pocket-watch-3156771_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.myClock{
+    font-size: 6rem;
+}
