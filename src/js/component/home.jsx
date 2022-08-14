@@ -2,8 +2,7 @@ import React, { useEffect, useState } from "react";
 
 import Cuenta from "./Cuenta.jsx";
 import CuentaAtras from "./CuentaAtras.jsx";
-import Alert from "./Alert.jsx"
-
+import Alert from "./Alert.jsx";
 
 //create your first component
 const Home = () => {
